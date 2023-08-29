@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = /Tmp-DVC-Storage
+    url = C:\Tmp-DVC-Storage
