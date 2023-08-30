@@ -1,0 +1,5 @@
+outs:
+- md5: d96ad95b019d07e56b001af151dcb3b5
+  size: 217178112
+  hash: md5
+  path: ADventureWorks2019.bak
